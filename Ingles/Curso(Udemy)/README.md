@@ -5,10 +5,27 @@
 
 ---
 
-## 🧩 Avaliação pessoal (por sessão)
+## 📚 Seções do Curso - com avaliação
 
-1. [`1_section_introduction`](.../a criar)
-2. *(em progresso...)*
+1. 🟢 [`1_section_introduction`](Ingles/Curso(Udemy)/1_section_introduction)  
+   * 💭 Futura opinião sobre a introdução...
+2. 🔤 [`2_section_basic`](Ingles/Curso(Udemy)/2_section_basic)  
+   * 💭 Futura opinião sobre os fundamentos básicos...
+3. 🧩 [`3_section_intermediary`](Ingles/Curso(Udemy)/3_section_intermediary)  
+   * 💭 Futura opinião sobre o nível intermediário...
+4. 🚀 [`4_section_advancement`](Ingles/Curso(Udemy)/4_section_advancement)  
+   * 💭 Futura opinião sobre o conteúdo avançado...
+5. 💊 [`5_section_pill`](Ingles/Curso(Udemy)/5_section_pill)  
+   * 💭 Futura opinião sobre os módulos complementares...
+6. 📘 [`6_section_basic`](Ingles/Curso(Udemy)/6_section_basic)  
+   * 💭 Futura opinião (reforço básico)...
+7. 🧠 [`7_section_intermediary`](Ingles/Curso(Udemy)/7_section_intermediary)  
+   * 💭 Futura opinião (prática intermediária)...
+8. 🌟 [`8_section_advancement`](Ingles/Curso(Udemy)/8_section_advancement)  
+   * 💭 Futura opinião (avanço final)...
+9. 🎁 [`9_section_bonus`](Ingles/Curso(Udemy)/9_section_bonus)  
+   * 💭 Futura opinião sobre os bônus...
+
 
 ---
 
