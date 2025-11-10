@@ -1,0 +1,54 @@
+# ==========================
+# 📘 .gitignore — Caderno Inglês
+# ==========================
+# Ignorar arquivos e pastas criadas por IDEs e sistemas operacionais
+# pois este repositório será usado apenas para anotações em Markdown.
+
+# ==========================
+# 🧩 Visual Studio / VSCode
+# ==========================
+.vscode/
+.vs/
+*.code-workspace
+
+# ==========================
+# 🧱 Build & Backup (caso crie algo no futuro)
+# ==========================
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# ==========================
+# 🧹 Sistema Operacional
+# ==========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================
+# 📦 Outros
+# ==========================
+# Arquivos temporários e cache
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.cache
+*.zip
+*.rar
+
+# ==========================
+# 📝 Ignorar arquivos pessoais de notas locais
+# ==========================
+# (Caso queira guardar anotações privadas fora do repositório público)
+privado/
