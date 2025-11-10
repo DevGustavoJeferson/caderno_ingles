@@ -1,7 +1,6 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DevGustavoJeferson/caderno_ingles)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DevGustavoJeferson/caderno_ingles)
-![GitHub license](https://img.shields.io/github/license/DevGustavoJeferson/caderno_ingles)
 
 # 📚 Caderno para estudar inglês
 
