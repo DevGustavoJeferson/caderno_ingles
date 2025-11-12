@@ -9,7 +9,7 @@
 - Esta seção tem como objetivo reunir **exercícios práticos** encontrados em diferentes fontes da internet.  
 - Cada exercício incluirá o **enunciado original**, a **resolução** e, quando possível, uma **reflexão linguística** sobre o tema abordado.  
 
-> 📍 O foco aqui é **praticar leitura, escrita e interpretação em inglês**, reforçando o conteúdo visto nas seções do curso principal.
+> 📍 O foco aqui é **praticar leitura, escrita e interpretação em inglês**, reforçando o conteúdo visto nas seções do [Curso(Udemy)](Ingles\Curso(Udemy)).
 
 ### ⚠️ Importante
 
@@ -25,6 +25,7 @@
 - [Perfect English Grammar](https://www.perfect-english-grammar.com)
 - [Cambridge English Practice](https://www.cambridgeenglish.org/learning-english/)
 - [British Council – Learn English](https://learnenglish.britishcouncil.org/)
+- De acordo com o crescimento do projeto, mais fontes poderão ser acrescentadas
 
 ---
 
